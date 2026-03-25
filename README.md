@@ -49,6 +49,7 @@
 
 
 ## Output:
+
 ![image](https://github.com/Nanditha285/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/blob/main/ii.jpeg?raw=true)
 ### Name:Nanditha Shaji
 ### Register Number:212225040273
